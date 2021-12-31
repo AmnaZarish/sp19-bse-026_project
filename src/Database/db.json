@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Biryani",
+      "description": "Layered spicy rice with tandoori chicken flavor",
+      "image": "biryani",
+      "price": "250Rs",
+      "amount": "1"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Burger",
+      "description": "Consistently good. Served with French Fries and Cole Slaw.",
+      "image": "burger",
+      "price": "500Rs",
+      "amount": "1"
+    },
+    {
+      "id": "3",
+      "name": "Pasta",
+      "description": "talian pasta dish tossed with butter and creamy parmesan cheese sauce flavored",
+      "image": "pasta",
+      "price": "256.53Rs",
+      "amount": "1"
+    },
+    {
+      "name": "WHITE CHICKEN KARAHI ",
+      "description": "Rich creamy chicken curry seasoned with garlic paste, salt, white pepper",
+      "price": "760Rs",
+      "id": "6"
+    }
+  ]
+}
